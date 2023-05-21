@@ -10,7 +10,7 @@ class Person {
   return this.age = age;
 }
 get getAge(){
-return this.age = age;
+return this.age;
 }
 	
 }
